@@ -1,3 +1,6 @@
+To open this App just follow this link:
+https://dmitrydam.github.io/TodoList-Form-for-Moviemate/build/
+
 ## React TodoList+Form for Moviemate on ReactJS.
 
 * Header приложения, в нем лого и будущая навигация.
@@ -9,6 +12,3 @@
 * Реализован запрет на создание карточки кинофильма если поля
   не заполнены. Выводить простой **alert** с оповещением о незаполненых полях.
 * Сделано добавление категорий кинофильма через чекбоксы формы.
-
-To open this App just follow this link:
-https://dmitrydam.github.io/React-Homework2/build/

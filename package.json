@@ -15,7 +15,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://dmitrydam.github.io/React-Homework2/build/",
+  "homepage": "https://dmitrydam.github.io/TodoList-Form-for-Moviemate/build/",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
